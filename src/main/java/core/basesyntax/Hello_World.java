@@ -18,7 +18,7 @@ public class Hello_World
         Cat cat = new Cat(); }
 
     private String getFromOneToTen() {
-        String result="";
+        String result ="";
 
         for (int i=0; i<10; i++){
             if(i%2==0)
